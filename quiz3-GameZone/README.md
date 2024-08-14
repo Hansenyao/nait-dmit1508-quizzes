@@ -34,5 +34,7 @@ Perform the following tasks:
 2. If the Game is an existing Game, add a record to the GameMaintenance table.
 3. Adjust the LifeID attribute for that game according to the number of maintenance jobs that have been performed on that game.
 
+# ERD
 
+<img src="./img/ERD.png">
 
