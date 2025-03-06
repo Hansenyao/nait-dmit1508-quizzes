@@ -1,2 +1,2 @@
 # nait-database-quizzes
-All database quizzes project at NAIT
+SQL quizzes in DMIT1508 (Database) course at NAIT.
